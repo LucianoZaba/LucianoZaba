@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Luciano 👋 | Python Developer | Computer Vision
 
-<!--
-**LucianoZaba/LucianoZaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automatizo negocios con Python: desde Excel hasta Visión Artificial.
 
-Here are some ideas to get you started:
+**Lo que hago para clientes en Workana:**
+- 👁️ **Visión Artificial:** Conteo de personas/productos, detección con YOLO / OpenCV, OCR de facturas/DNIs
+- 🤖 **Automatización:** Excel / Google Sheets con Pandas
+- 🕷️ **Web Scraping:** Precios de Meli / Proveedores a Sheets automático
+- ⚡ **APIs & Bots:** FastAPI + WhatsApp/Telegram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python, OpenCV, YOLOv8, Pandas, FastAPI, Playwright
+
+**Proyectos:**
+- 👉 `excel-report-automator` - Limpieza de reportes
+- 👉 `vision-counter` - Conteo de objetos con YOLO [próximo]
+- 👉 `ocr-facturas` - De foto de factura a Excel [próximo]
+
+📫 Workana: [tu link]
